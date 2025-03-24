@@ -1,3 +1,0 @@
-2025-02-28 01:15:19,563 - INFO - Environment: dev
-2025-02-28 01:15:21,423 - INFO - Files present in folder sales_data/ of bucket de-proj-1: ['gs://de-proj-1/sales_data/']
-2025-02-28 01:15:23,773 - ERROR - No csv data available to process the request.

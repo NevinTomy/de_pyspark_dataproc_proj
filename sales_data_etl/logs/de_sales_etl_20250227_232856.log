@@ -1,7 +1,0 @@
-2025-02-27 23:28:57,336 - INFO - Environment: dev
-2025-02-27 23:28:58,033 - ERROR - Error message: Error listing files: 'HTTPIterator' object has no attribute 'name'
-Traceback message: Traceback (most recent call last):
-  File "D:\pyspark_tut\spark_project_de\de_pyspark_dataproc_proj\src\main\read\gcs_read.py", line 22, in list_csv_files
-    logger.info(f"Files available in folder {folder} of bucket {bucket}: {blobs.name}")
-AttributeError: 'HTTPIterator' object has no attribute 'name'
-

@@ -1,3 +1,0 @@
-2025-02-27 23:28:09,504 - INFO - Environment: dev
-2025-02-27 23:28:10,296 - INFO - Files available in folder sales_data/ of bucket de-proj-1: <google.api_core.page_iterator.HTTPIterator object at 0x0000027C31DE6400>
-2025-02-27 23:28:13,604 - INFO - No file is present in the GCS source directory. Exiting the process.
