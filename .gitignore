@@ -1,7 +1,7 @@
-logs/*
-!logs/.gitkeep
+logs/
 venv/
 .idea/
 __pycache__
 svc_acct_key.json
 test.py
+sales_data_etl.tar.gz
