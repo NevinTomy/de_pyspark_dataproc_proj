@@ -1,0 +1,11 @@
+2025-02-28 01:35:40,386 - INFO - Environment: dev
+2025-02-28 01:35:42,131 - INFO - Files present in folder sales_data/ of bucket de-proj-1: ['gs://de-proj-1/sales_data/sales_data.csv']
+2025-02-28 01:35:44,358 - INFO - File check query: 
+      SELECT DISTINCT file_name FROM
+      de_proj.product_staging_table
+      WHERE file_name IN ('sales_data.csv') AND status = 'I'
+    
+2025-02-28 01:35:44,634 - INFO - No match found. Last run was successful!
+2025-02-28 01:35:44,634 - INFO - *************************** List of CSV files ***************************
+2025-02-28 01:35:44,636 - INFO - List of CSV files that needs to be processed: ['sales_data.csv']
+2025-02-28 01:35:44,636 - INFO - *************************** Creating Spark session ***************************

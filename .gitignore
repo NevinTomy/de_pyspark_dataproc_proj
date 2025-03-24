@@ -1,0 +1,7 @@
+logs/*
+!logs/.gitkeep
+venv/
+.idea/
+__pycache__
+svc_acct_key.json
+test.py
