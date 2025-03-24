@@ -5,3 +5,4 @@ __pycache__
 svc_acct_key.json
 test.py
 sales_data_etl.tar.gz
+encrypt_decrypt.py
